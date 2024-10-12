@@ -1,0 +1,3 @@
+Prefix pipelines/Kaiju2Table/example/
+Plugin Kaiju2Table inputfile parameters.table.txt outputfile sars-cov-2_1.table
+Plugin Kaiju2Krona inputfile parameters/parameters.krona.txt outputfile sars-cov-2_1krona.out

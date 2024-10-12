@@ -1,0 +1,8 @@
+file	percent	reads	taxon_id	taxon_name
+pipelines/Kaiju///sars-cov-2_1.out	85.432602	74739	2697049	Severe acute respiratory syndrome coronavirus 2
+pipelines/Kaiju///sars-cov-2_1.out	0.035435	31	227984	SARS coronavirus Tor2
+pipelines/Kaiju///sars-cov-2_1.out	0.008002	7	864596	Bat coronavirus BM48-31/BGR/2008
+pipelines/Kaiju///sars-cov-2_1.out	0.003429	3	1541205	Bat Hp-betacoronavirus/Zhejiang2013
+pipelines/Kaiju///sars-cov-2_1.out	0.002286	2	694007	Tylonycteris bat coronavirus HKU4
+pipelines/Kaiju///sars-cov-2_1.out	0.000000	0	NA	cannot be assigned to a (non-viral) species
+pipelines/Kaiju///sars-cov-2_1.out	14.518249	12701	NA	unclassified

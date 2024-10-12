@@ -1,0 +1,4 @@
+nodedump	nodes.dmp
+namesdump	names.dmp
+level	species
+kaijuout	sars-cov-2_1.out
